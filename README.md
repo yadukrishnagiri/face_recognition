@@ -24,5 +24,7 @@ OS: For directory and file operations.
 Accomplishments
 
 Developed a complete pipeline for capturing images, detecting faces, and recognizing individuals.
+
 Successfully integrated OpenCV for face detection and TensorFlow/Keras for model training and prediction.
+
 Implemented real-time face recognition with high accuracy.
